@@ -3,3 +3,5 @@
 ## Gravando mudanças no repositório Github
 
 ## Criando a Versão 2.0
+
+- Comando git push
