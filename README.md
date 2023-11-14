@@ -5,3 +5,4 @@
 ## Criando a Versão 2.0
 
 - Comando git push
+- Comando git pull
